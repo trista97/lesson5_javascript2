@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 21, 2017
 
 ### Student Name:  
-(First and Last Name)
+Trista Reeves
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment uses javascript to create a tax calculator application that computes a user's total income tax depending on their tax bracket.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to declare, initialize, modify and display variables.
+2. How to use the getElementById() method to reference elements on a webpage using its id value.
+3. How to use if statements, if/else statements, and nested if statements to make decisions. 
