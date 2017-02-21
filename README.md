@@ -13,8 +13,7 @@ Trista Reeves
 This assignment uses javascript to create a tax calculator application that computes a user's total income tax depending on their tax bracket.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://trista97.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. How to declare, initialize, modify and display variables.
